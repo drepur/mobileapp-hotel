@@ -1,0 +1,7 @@
+{
+  "name": "hotelapp-mobile",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
